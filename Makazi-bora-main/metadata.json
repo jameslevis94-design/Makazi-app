@@ -1,0 +1,6 @@
+{
+  "name": "House Booking",
+  "description": "An elegant house booking app featuring Home, Inbox, and Profile pages, an interactive search, and beautiful house cards with booking and view details controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
